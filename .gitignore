@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/Login/.vs/Login/DesignTimeBuild
+/Login/.vs/Login/v17
+/Login/obj
+/Login/bin/Debug/net6.0
